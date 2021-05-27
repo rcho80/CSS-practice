@@ -1,0 +1,33 @@
+.border {
+  border: 2px solid pink;
+  background-color: greenyellow;
+  padding: 10px 0;
+}
+
+.outer-border {
+  border: 2px solid grey;
+  padding: 2px;
+  width: 50%;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.inner {
+  padding: 15px;
+  background-color: hotpink;
+}
+
+p {
+  margin-left: 55px;
+}
+
+h2 {
+  margin-left: 15px;
+}
+
+.inner {
+  padding-bottom: 20px;
+}
