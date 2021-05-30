@@ -1,0 +1,59 @@
+.btn-lg-blue {
+  padding: 0.5rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+  background-color: #007bff;
+  border: 1px #007bff transparent;
+  border-style: none;
+  color: #fff;
+}
+
+.btn-lg-blue:hover {
+  background-color: rgb(19, 112, 233);
+}
+
+.btn-lg-grey {
+  padding: 0.5rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+  background-color: #6c757d;
+  border: 1px #6c757d transparent;
+  border-style: none;
+  color: #fff;
+}
+
+.btn-lg-grey:hover {
+  background-color: #585e63;
+}
+
+.btn-sm-blue {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+  background-color: #007bff;
+  border: 1px #007bff transparent;
+  border-style: none;
+  color: #fff;
+}
+
+.btn-sm-blue:hover {
+  background-color: rgb(19, 112, 233);
+}
+
+.btn-sm-grey {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+  background-color: #6c757d;
+  border: 1px #6c757d transparent;
+  border-style: none;
+  color: #fff;
+}
+
+.btn-sm-grey:hover {
+  background-color: #585e63;
+}
