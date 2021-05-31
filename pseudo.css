@@ -1,0 +1,51 @@
+body {
+  padding: 50px;
+  font-size: 1.25rem;
+}
+
+.pseudo {
+  text-decoration: none;
+}
+
+.pseudo:visited {
+  color: brown;
+}
+
+.pseudo:hover {
+  color: coral;
+}
+
+.pseudo:active {
+  color: #fff;
+  background-color: black;
+}
+
+
+.boxes {
+  border-radius: 5px;
+  padding: 8px;
+  width: 30%;
+}
+
+input {
+  background-color: rgb(173, 218, 233);
+  border: 2px solid grey;
+}
+
+input:disabled {
+  background-color: rgb(244, 249, 250);
+  border: 2px solid grey;
+}
+
+
+input:required {
+  border: 1px solid coral;
+}
+
+.enabled {
+  background-color: rgb(173, 218, 233);
+}
+
+button {
+  font-size: 1.25rem;
+}

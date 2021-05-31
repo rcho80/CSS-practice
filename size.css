@@ -7,6 +7,7 @@
   border: 1px #007bff transparent;
   border-style: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .btn-lg-blue:hover {
@@ -22,6 +23,7 @@
   border: 1px #6c757d transparent;
   border-style: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .btn-lg-grey:hover {
@@ -37,6 +39,7 @@
   border: 1px #007bff transparent;
   border-style: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .btn-sm-blue:hover {
@@ -52,6 +55,7 @@
   border: 1px #6c757d transparent;
   border-style: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .btn-sm-grey:hover {

@@ -7,6 +7,7 @@
   border: 1px rgb(18, 99, 206) transparent;
   border-style: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .link {
@@ -18,4 +19,5 @@
   border: 1px rgb(102, 104, 107) transparent;
   border-style: none;
   color: #fff;
+  cursor: pointer;
 }

@@ -7,6 +7,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-primary:hover {
@@ -23,6 +24,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-secondary:hover {
@@ -39,6 +41,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-success:hover {
@@ -55,6 +58,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-danger:hover {
@@ -71,6 +75,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-warning:hover {
@@ -87,6 +92,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-info:hover {
@@ -103,6 +109,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-light:hover {
@@ -119,6 +126,7 @@
   font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: .25rem;
+  cursor: pointer;
 }
 
 .btn-dark:hover {
