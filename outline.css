@@ -1,0 +1,135 @@
+.btn-primary {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid #007bff;
+  color: black;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid #6c757d;
+  color: #6c757d;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.btn-success {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid #28a745;
+  color: #28a745;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-success:hover {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid #dc3545;
+  color: #dc3545;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-danger:hover {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btn-warning {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid #ffc107;
+  color: #ffc107;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-warning:hover {
+  background-color: #ffc107;
+  color: black;
+}
+
+.btn-info {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid #17a2b8;
+  color: #17a2b8;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-info:hover {
+  background-color: #17a2b8;
+  color: #fff;
+}
+
+.btn-light {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border: 1px solid transparent;
+  color: transparent;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-light:hover {
+  background-color: #f8f9fa;
+  color: black;
+}
+
+.btn-dark {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #343a40;
+  color: #343a40;
+  font-size: 14px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.btn-dark:hover {
+  background-color: #343a40;
+  color: #fff;
+}

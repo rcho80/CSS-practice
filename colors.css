@@ -1,0 +1,143 @@
+.btn-primary {
+  background-color: #0080FF;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: rgb(34, 96, 190);
+}
+
+.btn-secondary {
+  background-color: #8a9094;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background-color: #656b70;
+}
+
+.btn-success {
+  background-color: #49b858;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-success:hover {
+  background-color: #0b6316;
+}
+
+.btn-danger {
+  background-color: rgb(233, 35, 35);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-danger:hover {
+  background-color: rgb(182, 11, 11);
+}
+
+.btn-warning {
+  background-color: rgb(255, 185, 80);
+  padding: 12px;
+  border-radius: 5px;
+  color: black;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-warning:hover {
+  background-color: rgb(212, 144, 41);
+}
+
+.btn-info {
+  background-color: rgb(74, 184, 192);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-info:hover {
+  background-color: rgb(46, 120, 126);
+}
+
+.btn-light {
+  background-color: rgb(234, 239, 240);
+  padding: 10px;
+  border-radius: 5px;
+  color: black;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-light:hover {
+  background-color: rgb(187, 184, 184);
+}
+
+.btn-dark {
+  background-color: rgb(44, 44, 46);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  border-width: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-dark:hover {
+  background-color: rgb(0, 0, 0);
+}
+
+.btn-link {
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(59, 143, 238);
+  font-size: 14px;
+  border-width: 0;
+  background-color: transparent;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
