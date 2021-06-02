@@ -1,0 +1,47 @@
+section {
+  border: 1px solid black;
+}
+
+.box__header--arial {
+  font-family: Arial,
+    Helvetica,
+    sans-serif;
+}
+
+.box__par--underline {
+  text-decoration: underline;
+}
+
+.box__ul--underline {
+  text-decoration: underline;
+}
+
+.box__ul--style {
+  list-style-type: none;
+}
+
+.main__par--brown {
+  color: brown;
+}
+
+.main__par--coral {
+  color: coral;
+}
+
+.main__par--bold {
+  font-weight: bold;
+}
+
+.box__par--red {
+  color: red;
+}
+
+.box__header--blue {
+  color: blue;
+}
+
+.box__par--arial {
+  font-family: Arial,
+    Helvetica,
+    sans-serif;
+}
