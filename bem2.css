@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+}
+
+.container {
+  padding: 10px;
+}
+
+.container__stretch {
+  border: 1px solid black;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.container>div {
+  padding-right: 15px;
+}
+
+.container__stretch--home {
+  margin-right: auto;
+}
+
+.container__centred {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container__reversed {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.container__reversed--top {
+  display: flex;
+}
